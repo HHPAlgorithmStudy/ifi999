@@ -1,4 +1,4 @@
-package dataStructure;
+package programmers;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
